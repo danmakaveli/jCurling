@@ -11,5 +11,5 @@ package jcurling.wrk;
  * @author albuquerqud
  */
 public class WrkDB{
-    
+    private String test;
 }
